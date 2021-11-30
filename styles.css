@@ -30,7 +30,8 @@
 
 }
 body{
-    background-color: #34BE82;
+/*     background-color: #34BE82; */
+    background-image:url("/CGPAtoPercentage/back.jpg");
 }
 
 label{
