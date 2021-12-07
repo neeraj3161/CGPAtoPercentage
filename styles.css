@@ -1,9 +1,10 @@
 .h1{
     text-align: center;
     color: #F7F7F7;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Outfit', sans-serif;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
     font-size: 50px;
 }
@@ -11,9 +12,10 @@
 .h2{
     margin-left: 20%;
     color: #F7F7F7;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Outfit', sans-serif;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
 }
 
@@ -21,9 +23,10 @@
 .grade{
     margin-left: 20%;
     color: #F7F7F7;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Outfit', sans-serif;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
 
 
@@ -35,9 +38,10 @@ body{
 }
 
 label{
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Outfit', sans-serif;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
     margin-left: 20%;
     font-weight: bold;
     color: #EEEEEE;
@@ -56,9 +60,10 @@ input[type=number]{
 .Copyright{
     margin-left: 20%;
     color: #F7F7F7;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Outfit', sans-serif;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
     margin-top: 25%;
 }
 
@@ -71,9 +76,10 @@ p{
 
     margin-left: 20%;
     color: #F7F7F7;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Outfit', sans-serif;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 
 }
 
